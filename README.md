@@ -4,7 +4,7 @@ Segmented customers using Python, Scikit-learn, and KMeans clustering based on i
 
 ## Dashboard Preview
 
-![Dashboard Overview](customer segmentation.png)
+![Dashboard Overview](customer_segmentation.png)
 # Customer Segmentation & Sales Insights Dashboard
 
 This project focuses on customer segmentation using Python, Scikit-learn, KMeans clustering, and Power BI. The goal of the project is to group customers based on income, spending score, and purchasing behavior to identify meaningful customer segments for business decision-making.
