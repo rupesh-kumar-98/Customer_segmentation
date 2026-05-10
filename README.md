@@ -2,6 +2,9 @@
 Segmented customers using Python, Scikit-learn, and KMeans clustering based on income, spending score, and purchasing behavior. Built an interactive Power BI dashboard with cluster visualizations and insights to support targeted marketing, customer retention, and personalization strategies.
 
 
+## Dashboard Preview
+
+![Dashboard Overview](customer segmentation.png)
 # Customer Segmentation & Sales Insights Dashboard
 
 This project focuses on customer segmentation using Python, Scikit-learn, KMeans clustering, and Power BI. The goal of the project is to group customers based on income, spending score, and purchasing behavior to identify meaningful customer segments for business decision-making.
